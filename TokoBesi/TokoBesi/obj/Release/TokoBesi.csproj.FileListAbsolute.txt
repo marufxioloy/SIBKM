@@ -1,0 +1,6 @@
+D:\-MBKM\Tugas\Minggu 3\TokoBesi\TokoBesi\bin\Release\TokoBesi.exe.config
+D:\-MBKM\Tugas\Minggu 3\TokoBesi\TokoBesi\bin\Release\TokoBesi.exe
+D:\-MBKM\Tugas\Minggu 3\TokoBesi\TokoBesi\bin\Release\TokoBesi.pdb
+D:\-MBKM\Tugas\Minggu 3\TokoBesi\TokoBesi\obj\Release\TokoBesi.csproj.CoreCompileInputs.cache
+D:\-MBKM\Tugas\Minggu 3\TokoBesi\TokoBesi\obj\Release\TokoBesi.exe
+D:\-MBKM\Tugas\Minggu 3\TokoBesi\TokoBesi\obj\Release\TokoBesi.pdb

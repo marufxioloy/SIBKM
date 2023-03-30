@@ -1,0 +1,7 @@
+D:\-MBKM\Tugas\Minggu 3\TokoBesi\TokoBesi\bin\Debug\TokoBesi.exe.config
+D:\-MBKM\Tugas\Minggu 3\TokoBesi\TokoBesi\bin\Debug\TokoBesi.exe
+D:\-MBKM\Tugas\Minggu 3\TokoBesi\TokoBesi\bin\Debug\TokoBesi.pdb
+D:\-MBKM\Tugas\Minggu 3\TokoBesi\TokoBesi\obj\Debug\TokoBesi.csproj.AssemblyReference.cache
+D:\-MBKM\Tugas\Minggu 3\TokoBesi\TokoBesi\obj\Debug\TokoBesi.csproj.CoreCompileInputs.cache
+D:\-MBKM\Tugas\Minggu 3\TokoBesi\TokoBesi\obj\Debug\TokoBesi.exe
+D:\-MBKM\Tugas\Minggu 3\TokoBesi\TokoBesi\obj\Debug\TokoBesi.pdb
